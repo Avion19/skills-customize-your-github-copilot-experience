@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "todo-api-fastapi",
+      "title": "To-Do API with FastAPI",
+      "description": "Build a small to-do list API that supports creating, reading, updating, and deleting tasks.",
+      "path": "assignments/todo-api-fastapi",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
